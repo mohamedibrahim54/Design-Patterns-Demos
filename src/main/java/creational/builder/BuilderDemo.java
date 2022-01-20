@@ -1,6 +1,6 @@
 package creational.builder;
 
-public class Tester {
+public class BuilderDemo {
     public static void main(String[] args){
         Order.Builder builder = new Order.Builder();
         builder.setMeal("meat").setDessert("cake").setDrink("tea");

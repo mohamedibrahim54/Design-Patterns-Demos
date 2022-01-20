@@ -2,7 +2,7 @@ package creational.prototype;
 
 import java.time.Duration;
 
-public class Tester {
+public class PrototypeDemo {
     public static void main(String[] args){
         ItemCreator itemCreator = new ItemCreator();
         System.out.println("Book prototypes:");

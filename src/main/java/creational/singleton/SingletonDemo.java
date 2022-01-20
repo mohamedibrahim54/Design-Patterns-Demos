@@ -1,6 +1,6 @@
 package creational.singleton;
 
-public class Tester {
+public class SingletonDemo {
     public static void main(String[] args){
 
         DbSingleton dbSingleton = DbSingleton.getInstance();
